@@ -123,6 +123,6 @@ router.get(
             email: req.user.email
         });
     }
-)
+);
 
 module.exports = router;
